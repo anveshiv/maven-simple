@@ -12,7 +12,7 @@ public class AppTest
     @Test
     public void testApp()
     {
-        assertEquals("Holla world", app.greet("world"));
+        assertEquals("Hallo world", app.greet("world"));
     }
 
     @Test
